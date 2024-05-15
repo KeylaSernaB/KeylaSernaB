@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/keyla-elyneth/">Keyla Serna</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 <!--
 **KeylaSernaB/KeylaSernaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+https://www.canva.com/design/DAGFVgFqHB8/UydjzMYvfl4VuGUxaZvMSQ/view?utm_content=DAGFVgFqHB8&utm_campaign=designshare&utm_medium=link&utm_source=editor
