@@ -76,6 +76,10 @@ Actualmente estoy buscando nuevas oportunidades en el campo del análisis de dat
 <p>Como parte de una consultora de data, nos han contratado para poder realizar un análisis del mercado estadounidense. Nuestro cliente es parte de un conglomerado de empresas de restaurantes y afines, y desean tener un análisis detallado de la opinión de los usuarios en Yelp y cruzarlos con los de Google Maps sobre hoteles, restaurantes y otros negocios afines al turismo y ocio, utilizando análisis de sentimientos, predecir cuáles serán los rubros de los negocios que más crecerán o decaerán. Además, desean saber dónde es conveniente emplazar los nuevos locales de restaurantes y afines, y desean poder tener un sistema de recomendación de restaurantes para los usuarios de ambas plataformas para darle al usuario, por ejemplo, la posibilidad de poder conocer nuevos sabores basados en sus experiencias previas.</p>
 </div>
 
+</td>  
+</table>                                                                                 
+</div>
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -90,7 +94,6 @@ Actualmente estoy buscando nuevas oportunidades en el campo del análisis de dat
                                                                                       
 <!--
 cuarta tabla
-</td>       
 
 <td width="50%">
 <h3 align="center">Curso Kotlin Multiplatform</h3>
