@@ -51,7 +51,7 @@ Actualmente estoy buscando nuevas oportunidades en el campo del análisis de dat
 <img src="https://img.shields.io/badge/-PowerBI-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Se generó un análisis de los datos, de forma exhaustiva, con el fin de obtener hallazgos con información clave, que permita generar un mejor entendimiento del problema y brinde la posibilidad de proyectar pautas resolutivas de manera integral y eficiente.
+</p>Este proyecto se realizó simulando ser un Data Analist de una consultora; y tiene como finalidad la elaboración de un análisis de datos solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV), bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA).
 
 </p>
 </div>                                                             
