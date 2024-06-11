@@ -33,7 +33,8 @@ Actualmente estoy buscando nuevas oportunidades en el campo del análisis de dat
 </a>
 </p>
 <p> 
-Este proyecto simula el rol de un MLOpsEngineer, es decir, la combinación de un DataEngineer y DataScientist, sobre datos de la plataforma multinacional de videojuegos Steam. Se solicitó un Producto Mínimo Viable que muestre una API deployada en un servicio en la nube y la aplicación de dos modelos de Machine Learning, por una lado, un análisis de sentimientos sobre los comentarios de los usuarios de los juegos y, por otro lado, la recomendación de juegos a partir de dar el nombre de un juego y/o a partir de los gustos de un usuario en particular. 🎮
+Este proyecto simula el rol de un MLOpsEngineer, es decir, la combinación de un DataEngineer y DataScientist, sobre datos de la plataforma multinacional de videojuegos Steam. 🎮
+  Se solicitó un Producto Mínimo Viable que muestre una API deployada en un servicio en la nube y la aplicación de dos modelos de Machine Learning, por una lado, un análisis de sentimientos sobre los comentarios de los usuarios de los juegos y, por otro lado, la recomendación de juegos a partir de dar el nombre de un juego y/o a partir de los gustos de un usuario en particular. 
 
 </p>
 </div>
