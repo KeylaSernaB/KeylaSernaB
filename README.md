@@ -33,8 +33,7 @@ Actualmente estoy buscando nuevas oportunidades en el campo del análisis de dat
 </a>
 </p>
 <p> 
-Este proyecto simula el rol de un MLOpsEngineer, es decir, la combinación de un DataEngineer y DataScientist, sobre datos de la plataforma multinacional de videojuegos Steam. 🎮
-  Se solicitó un Producto Mínimo Viable que muestre una API deployada en un servicio en la nube y la aplicación de dos modelos de Machine Learning, por una lado, un análisis de sentimientos sobre los comentarios de los usuarios de los juegos y, por otro lado, la recomendación de juegos a partir de dar el nombre de un juego y/o a partir de los gustos de un usuario en particular. 
+El objetivo es desarrollar un sistema de recomendación de juegos utilizando los conjuntos de datos proporcionados. Abordaremos todas las fases clave de Data Engineering desde la preparación de datos (ETL) hasta el análisis exploratorio y la implementación del modelo.
 
 </p>
 </div>
@@ -77,7 +76,7 @@ Este proyecto simula el rol de un MLOpsEngineer, es decir, la combinación de un
 <img src="https://img.shields.io/badge/-Video-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p> El objetivo es desarrollar un sistema de recomendación de juegos utilizando los conjuntos de datos proporcionados. Abordaremos todas las fases clave de Data Engineering desde la preparación de datos (ETL) hasta el análisis exploratorio y la implementación del modelo. </p>
+<p> Este proyecto consta de un sistema de recomendación de restaurantes que satisface las necesidades y preferencias de los usuarios, se ha identificado la zona más conveniente para la ubicación de nuevos locales mediante el análisis geoespacial y técnicas de correlación, con el fin de tomar decisiones estratégicas que optimicen el rendimiento de un posible nuevo negocio; finalmente, se utilizó técnicas de análisis de datos para comprender mejor el comportamiento futuro del mercado en un rubro turístico dado. </p>
 </div>
 
 </td>  
